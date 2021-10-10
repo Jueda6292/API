@@ -3,7 +3,7 @@ import requests
 
 # Replace XXXXXXXXXXXX with your actual key, which
 # will look like a bunch of letters and numbers!
-API_KEY = 'd3e16c7696a98c3c5da244d73bcb0a0d'
+API_KEY = 'XXXXXXXXXXXXXXXXXXXX'
 # When you are done with the homework, remove your actual key
 # and replace it back with XXXXXXXXXXXXXXXXXX before you commit
 # and push to Github.
