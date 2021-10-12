@@ -13,6 +13,7 @@
 1. Keep making changes to your code and run it again until you get the expected output. Repeat as needed!
 
 ---
+# Question 1
 Cody and his friends Heather and Matt are going on a road trip across the Western United States and Canada. They want to visit several landmarks, national parks, and big cities.
 
 Here's their agenda:
@@ -61,7 +62,7 @@ Capilano Suspension Bridge is located at (49.3429, -123.1149)
 
 ---
 
-# Exercise 2: Heather Weather
+# Ouestion 2
 
 Cody is satisfied by geolocating his landmarks, but Heather wants to take it one step further and get the current weather at each location.
 
@@ -102,7 +103,7 @@ When you are done with Exercise 2, **remove your key from your source code file*
 
 ---
 
-# (STRETCH) Exercise 3: Format for Matt
+# Question 3
 
 Matt likes Heather's idea of getting the weather for each location they plan on visiting, but he thinks the data is unreadable.
 
