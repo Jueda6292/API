@@ -1,4 +1,3 @@
-#Cocomelon is Ini's fave
 import geocoder
 
 def main():
